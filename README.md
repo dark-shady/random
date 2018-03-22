@@ -1,2 +1,2 @@
 # random
-Random things I make with no purpose
+Random one file scripts I make with that serve no real purpose
